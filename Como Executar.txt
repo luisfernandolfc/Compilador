@@ -1,0 +1,6 @@
+lex:
+	python3 lex.py exer.tpp
+parse:
+	python3 parse.py exer.tpp
+Semântica:
+	python3 main.py exer.tpp
